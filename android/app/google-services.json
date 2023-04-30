@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "202700464220",
+    "project_id": "firebase-messaging-scaler",
+    "storage_bucket": "firebase-messaging-scaler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202700464220:android:8b12a7138f2fada0d14699",
+        "android_client_info": {
+          "package_name": "com.dhruvam.firebase_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202700464220-i19o7ls1u87l7ajuhff8b6c8pplv4omn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwiGJmW23kU_2zpP165sxpvTQe47OIBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202700464220-i19o7ls1u87l7ajuhff8b6c8pplv4omn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202700464220-mvgvgodbo6nfmt8voutf6h229nfkl92l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dhruvam.firebaseMessaging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202700464220:android:02029d7b19820aa2d14699",
+        "android_client_info": {
+          "package_name": "com.example.dhruvam.firebase_messaging_scaler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202700464220-i19o7ls1u87l7ajuhff8b6c8pplv4omn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwiGJmW23kU_2zpP165sxpvTQe47OIBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202700464220-i19o7ls1u87l7ajuhff8b6c8pplv4omn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202700464220-mvgvgodbo6nfmt8voutf6h229nfkl92l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dhruvam.firebaseMessaging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
